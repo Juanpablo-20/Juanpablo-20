@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Juan Izaguirre</h1>
 <h3 align="center">Soy un Java Backend Developer apasionado</h3>
 
-- 👨‍💻 All of my proj20ects are available at [https://github.com/Juanpablo-20/Juanpablo-20](https://github.com/Juanpablo-20)
+- 👨‍💻 All of my proj20ects are available at [https://github.com/Juanpablo-20](https://github.com/Juanpablo-20)
 
 - 💬 Ask me about **Java, HTML, CSS, Python, MySQL, JavaScript y PHP**
 
