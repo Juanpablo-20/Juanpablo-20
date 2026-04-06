@@ -3,9 +3,11 @@
 ## Sobre Mi:
 
 - 🎓 **Ingeniero en Información**
-- 💻 **Soy un Java Backend Developer apasionado**
-- 📈 Experiencia como programador en Java desde la perspectiva de Backend, con grandes ideas y conocimientos
-- 💻 Desarrollador en entornos de páginas así como de aplicaciones web, desde la perspectiva de Frontend
+- 💻 **Soy un Desarrollador Full-Stack**
+- 📈 Especialista en el diseño de arquitecturas escalables utilizando Java y Node.js/Next.js.
+- 💻 Experiencia en la gestión de bases de datos relacionales como MySQL y PostgreSQL.
+- 💻 Creando soluciones integrales desde la lógica de servidor y la integración de APIs, hasta interfaces de alto rendimiento con Next.js y TypeScript.
+- 📈 Enfocado en la eficiencia del código, la seguridad de los datos y la optimización SEO técnica.
 
 <br>
 
